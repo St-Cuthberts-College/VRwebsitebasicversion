@@ -9,3 +9,11 @@ body{
 img {
 	display: block;
 }
+.carousel-item {
+    width: 1400px;
+    height: 700px;
+}
+.carousel-item active {
+    width: 1400px;
+    height: 700px;
+}
