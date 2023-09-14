@@ -11,9 +11,9 @@ img {
 }
 .carousel-item {
     width: 1400px;
-    height: 700px;
+    height: 900px;
 }
-.carousel-item active {
-    width: 1400px;
-    height: 700px;
+
+html body {
+    background-color: #ff269a;
 }
